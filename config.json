@@ -1,0 +1,101 @@
+{
+  "code": "DONGYANG",
+  "title": "SMASH DONGYANG",
+  "school": "동양대",
+  "fullName": "동양대학교",
+  "campusName": "동양대학교",
+  "tagline": "동양대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동양대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동양대학교 3D 화면과 SMASH DONGYANG 제목",
+  "url": "https://hong-iron.github.io/SMASH-DONGYANG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468689692
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/479879167",
+      "n": "창업보육센터",
+      "why": "같은 건물 겹침 — 창업보육센터는 위키백과에 DYU타워(12번)로 나와 있고, 이 자리는 사진에서 잔디 비탈과 길뿐이다."
+    },
+    {
+      "id": "way/468698106",
+      "n": "장인관",
+      "why": "학교 건물 아님 — 건축물대장 이름이 동양대가 아닌 경량소재 융복합 기술센터이고, 학교 땅(학)이 아닌 대지(548 대)에 서 있다."
+    },
+    {
+      "id": "way/594699185",
+      "n": "",
+      "why": "학교 건물 아님 — 경량소재 융복합 기술센터 땅(548 대)에 2019년에 지은 1층 연구동이고, 지도에도 학교가 아닌 산업용지로 표시되어 있다."
+    },
+    {
+      "id": "way/592248565",
+      "n": "",
+      "why": "같은 건물 겹침 — 26번과 같은 빨간 지붕 작은 건물을 서쪽 잔디 쪽으로 비껴 그린 윤곽이고, 실제 지붕은 26번 윤곽과 맞는다."
+    },
+    {
+      "at": [
+        36.8843511,
+        128.5320832
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 연못 정원 옆 나무숲 자리로 사진에 지붕이 보이지 않고, 대장 기록에도 이름·층수·승인일이 없다."
+    }
+  ],
+  "look": {
+    "현암관": {
+      "style": "stone",
+      "wall": "#f3f1ea",
+      "glass": "#364b5e",
+      "frame": "#c7cbce"
+    },
+    "장영실관": {
+      "style": "brick",
+      "wall": "#9b674e",
+      "glass": "#5f7378",
+      "frame": "#e4ebea"
+    },
+    "인문사회과학관": {
+      "style": "brick",
+      "wall": "#b07a62",
+      "glass": "#4f7473",
+      "frame": "#d8d2c8"
+    },
+    "실내체육관": {
+      "style": "stone",
+      "wall": "#f2f1ec",
+      "glass": "#233441",
+      "frame": "#8a9097"
+    },
+    "사임당": {
+      "style": "brick",
+      "wall": "#c8a08c",
+      "glass": "#3a636d",
+      "frame": "#e6e2dc",
+      "roof": "#495151",
+      "hip": true
+    },
+    "일신재": {
+      "style": "brick",
+      "wall": "#a25d44",
+      "glass": "#2a3530",
+      "frame": "#e8e6e0"
+    },
+    "삼봉관": {
+      "style": "dorm",
+      "wall": "#f2b392",
+      "glass": "#3e6f96",
+      "frame": "#f5f1e8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
